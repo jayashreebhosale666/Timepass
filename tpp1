@@ -1,15 +1,23 @@
-jayashreebhosale666
 <!DOCTYPE html>
 <html>
 <body>
 
-<h2>HTML Image</h2>
+<h2>Bajaj Bikes</h2>
 <figure>
-  <img src="pulsar-150-bajaj.jpg" alt="pulsar-150-bajaj">
-  <figcaption><b>Bajaj Pulsar 150</b></figcaption>
-  <figcaption><b>Rs. 74,138</b></figcaption>
-  <button style="color:green; height:50px;width:100px;"><h3>Buy</h3></button>
+  <img src="pulsar-150-bajaj.jpg" alt="pulsar-150-bajaj" style="height:300px;width:500px;">
+  <img src="pulsar-150-bajaj_black.jpg" alt="pulsar-150-bajaj Black" style="height:300px;width:500px;">
+  <figcaption style="align:center;"><b>Bajaj Pulsar 150</b></figcaption>  <br>
+  <figcaption style="align:center;"><b>Rs. 74,138</b></figcaption>  <br/>
+  <button style="align:center;color:green; height:50px;width:150px;"><h3>Buy</h3></button>
 </figure>
+<figure>
+  <img src="Bajaj Pulsar RS200.jpg" alt="pulsar-150-bajaj" style="height:300px;width:500px;">
+  <img src="Bajaj Pulsar RS200_red.jpg" alt="pulsar-150-bajaj Black" style="height:300px;width:500px;">
+  <figcaption style="align:center;"><b>Bajaj Pulsar RS200</b></figcaption>  <br>
+  <figcaption style="align:center;"><b>Rs. 1.26 - 1.37 lakh</b></figcaption>  <br/>
+  <button style="align:center;color:green; height:50px;width:150px;"><h3>Buy</h3></button>
+</figure>
+
 
 </body>
 </html>
